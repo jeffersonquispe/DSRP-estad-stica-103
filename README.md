@@ -1,8 +1,5 @@
 # Introduccion a Estadística: DSRP
 
-
-## Modulo 1: Estadistica Descriptiva
-
 El presente curso es de naturaleza teórico-práctico tiene como propósito brindar
 los conocimientos básicos en estadística para aplicarlos en proyectos de análisis
 de datos. Los conocimientos que contempla el curso son: Estadística descriptiva.
@@ -10,10 +7,16 @@ Distribución de probabilidad y estadística inferencial. Test estadístico. An�
 discriminante y componentes principales, Análisis de regresión y Series de
 tiempo. 
 
+## Modulo 1: Estadistica Descriptiva
+Origen de la estadística. Variables discretas y continuas. Medidas de tendencia
+central. Medidas de variación de datos. Percentiles. Tablas de frecuencia y
+estructuradas. Matriz de correlación. Gráficos de barras y distribución de datos.
+Estimación de densidad, Casos práctico
+
 ### Clase 1
-Tema  | Slides | Video
+Tema  | Slides/Notebook | Video
 -----| :-: | :-: |
----| [![](https://i.imgur.com/AQwIogF.png?1)](https://drive.google.com/file/d/1E9zVoC6OizqfHGeH7uhFhxjcqKWZgPRW/view?usp=sharing) | [![](https://i.imgur.com/AQwIogF.png)](https://youtube.com)
+---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%201/Classe01_modulo1.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
 
 
 ### Clase 2: Neural Networks Basics
