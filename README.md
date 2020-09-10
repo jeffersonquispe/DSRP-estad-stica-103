@@ -3,7 +3,12 @@
 
 ## Modulo 1: Estadistica Descriptiva
 
-En este curso, aprenderemos los fundamentos de deep learning. Podremos construir, entrenar y aplicar redes neuronales profundas completamente conectadas. Aprenderemos cómo implementar redes neuronales eficientes (vectorizadas). Comprenderemos los parámetros clave en un arquitectura de red neuronal. Este curso también nos enseña cómo funciona realmente el aprendizaje profundo, en lugar de presentar solo una descripción superficial o superficial.
+El presente curso es de naturaleza teórico-práctico tiene como propósito brindar
+los conocimientos básicos en estadística para aplicarlos en proyectos de análisis
+de datos. Los conocimientos que contempla el curso son: Estadística descriptiva.
+Distribución de probabilidad y estadística inferencial. Test estadístico. Análisis
+discriminante y componentes principales, Análisis de regresión y Series de
+tiempo. 
 
 ### Clase 1
 Tema  | Slides | Video
