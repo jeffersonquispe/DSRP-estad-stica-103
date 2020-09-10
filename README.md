@@ -13,7 +13,7 @@ tiempo.
 ### Clase 1
 Tema  | Slides | Video
 -----| :-: | :-: |
----| [![](https://i.imgur.com/AQwIogF.png)](https://drive.google.com/file/d/1E9zVoC6OizqfHGeH7uhFhxjcqKWZgPRW/view?usp=sharing) | [![](https://i.imgur.com/AQwIogF.png)](https://youtube.com)
+---| [![](https://i.imgur.com/AQwIogF.png?1)](https://drive.google.com/file/d/1E9zVoC6OizqfHGeH7uhFhxjcqKWZgPRW/view?usp=sharing) | [![](https://i.imgur.com/AQwIogF.png)](https://youtube.com)
 
 
 ### Clase 2: Neural Networks Basics
