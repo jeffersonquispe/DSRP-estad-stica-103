@@ -1,4 +1,6 @@
-# Introduccion a Estadística: DSRP Programa de especialización: Análisis de datos con python.
+# DSRP   -  Programa de especialización: Análisis de datos con python.
+
+#Introduccion a Estadística
 
 El presente curso es de naturaleza teórico-práctico tiene como propósito brindar
 los conocimientos básicos en estadística para aplicarlos en proyectos de análisis
@@ -22,12 +24,17 @@ Tema  | Slides/Notebook | Video
 ### Clase 2
 Tema  | Slides/Notebook | Video
 -----| :-: | :-: |
----| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%201/Classe01_modulo1.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
+---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%202/Classe02_modulo1.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
 
 ### Clase 3
 Tema  | Slides/Notebook | Video
 -----| :-: | :-: |
----| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%201/Classe01_modulo1.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
+---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%203%20/Estadistica_modulo01_Classe03_Profe.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
+
+### Control de Lectura
+PDF  | Video | Cuestionario
+-----| :-: | :-: |
+ [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%203%20/Estadistica_modulo01_Classe03_Profe.ipynb)| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://www.youtube.com/watch?time_continue=3&v=TIw1OpMHHAE&feature=emb_logo) | [![](https://i.imgur.com/iSQzRRU.jpg?1)](https://docs.google.com/forms/d/e/1FAIpQLSfAS0eA3qM0t5izkj2UbcJYvmMuXz2Va3gL6gsc1ljFqWMx9Q/viewform)
 
 ## Modulo 2: PROBABILIDADES & ESTADÍSTICA INFERENCIAL
 Introducción a estadística inferencial. Distribuciones de probabilidad.
