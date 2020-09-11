@@ -28,7 +28,7 @@ Tema  | Slides/Notebook
 
 ### Clase 3 (08/09/2020)
 Tema  | Slides/Notebook 
------| :-: | :-: |
+-----| :-: |
 ---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%203%20/Estadistica_modulo01_Classe03_Profe.ipynb) 
 
 ### Control de Lectura (Deadline - 09/09/2020 23:59  GMT - 5 )
@@ -45,7 +45,7 @@ correlación, normalidad y varianza. Exploración de campo, Casos prácticos
 
 ### Clase 1 (10/09/2020)
 Tema  | Slides/Notebook 
------| :-: | :-: |
+-----| :-: | 
 ---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/) 
 ## Modulo 3: ANÁLISIS DISCRIMINANTE Y COMPONENTES PRINCIPALES
 Ideas intuitivas, Teorema de Bayes para clasificación, Condiciones del LDA,
