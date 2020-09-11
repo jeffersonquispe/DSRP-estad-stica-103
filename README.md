@@ -16,20 +16,20 @@ estructuradas. Matriz de correlación. Gráficos de barras y distribución de da
 Estimación de densidad, Casos práctico
 
 ### Clase 1 (01/09/2020)
-Tema  | Slides/Notebook | Video
------| :-: | :-: |
----| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%201/Classe01_modulo1.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
+Tema  | Slides/Notebook 
+-----| :-: | 
+---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%201/Classe01_modulo1.ipynb) 
 
 
 ### Clase 2 (03/09/2020)
-Tema  | Slides/Notebook | Video
------| :-: | :-: |
----| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%202/Classe02_modulo1.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
+Tema  | Slides/Notebook
+-----| :-: | 
+---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%202/Classe02_modulo1.ipynb) 
 
 ### Clase 3 (08/09/2020)
-Tema  | Slides/Notebook | Video
+Tema  | Slides/Notebook 
 -----| :-: | :-: |
----| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%203%20/Estadistica_modulo01_Classe03_Profe.ipynb) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
+---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/blob/master/Modulo%201/Clase%203%20/Estadistica_modulo01_Classe03_Profe.ipynb) 
 
 ### Control de Lectura (Deadline - 09/09/2020 23:59  GMT - 5 )
 PDF  | Video | Cuestionario
@@ -44,10 +44,9 @@ Intervalos de confianza. Pruebas de hipótesis P-value. A/B Testing. Test de
 correlación, normalidad y varianza. Exploración de campo, Casos prácticos
 
 ### Clase 1 (10/09/2020)
-Tema  | Slides/Notebook | Video
+Tema  | Slides/Notebook 
 -----| :-: | :-: |
----| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/) | [![](https://i.imgur.com/AQwIogF.png?1)](https://youtube.com)
-
+---| [![](https://i.imgur.com/ii8QH0y.jpg?1)](https://github.com/jeffersonquispe/DSRP-estadistica-102/) 
 ## Modulo 3: ANÁLISIS DISCRIMINANTE Y COMPONENTES PRINCIPALES
 Ideas intuitivas, Teorema de Bayes para clasificación, Condiciones del LDA,
 Aproximaciones al LDA: Bayes y Fischer, Algebra lineal, Interpretación
